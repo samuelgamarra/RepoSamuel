@@ -5,6 +5,6 @@ void main (){
   double precio = 1.99;
   bool masculino = true; 
   
-  print ("mi nombre es $nombre, mi edad es $edad, mi precio es $precio, masculino: $masculino");
+  print ("mi nombre es $nombre, mi edad es $edad, mi precio es $precio, masculino: $masculino.");
 
 }
